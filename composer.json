@@ -1,0 +1,21 @@
+{
+	"name": "meerkat/meerkat-thumb",
+	"type": "kohana-module",
+	"description": "Thumb module for MeerkatCMF (on Kohana 3.3)",
+	"homepage": "http://github.com/meerkat/meerkat-thumb",
+	"license": "MIT",
+	"keywords": ["kohana", "module", "meerkat", "thumb"],
+	"authors": [
+				{
+					"name": "Alexey Berdnikov",
+					"email": "aberdnikov@gmail.com",
+					"homepage": "https://github.com/aberdnikov",
+					"role": "Developer"
+			}
+	],
+	"require": {
+			"php": ">=5.3",
+			"composer/installers": "*",
+			"meerkat/meerkat-slot": "*"
+	} 	
+}
